@@ -1,9 +1,9 @@
 document
 .getElementById("contactForm")
-.addEventListener("submit", function(e){
+.addEventListener("submit",function(e){
 
-    e.preventDefault();
+e.preventDefault();
 
-    alert("Message Sent Successfully!");
+alert("Thank you for contacting me!");
 
 });
